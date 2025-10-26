@@ -58,7 +58,6 @@ cp .env.example .env.local
 npm run dev
 \`\`\`
 
-6. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
 
