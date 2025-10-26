@@ -119,7 +119,6 @@ npm run build
 ## Environment Variables
 
 \`\`\`
-NEXT_PUBLIC_API_URL=https://splotit-backend-2.onrender.com
 NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=AIzaSyD7TyT2_AV04LQYKDuW61SoiJAmulkGml4
 NEXT_PUBLIC_CLOUDINARY_URL=cloudinary://<your_api_key>:<your_api_secret>@djcaryyoj
 NEXT_PUBLIC_FCM_API_KEY=BOZHn7O3j4H6I07aowkdCidBI4kaT-dfTbVR_NSSXbYsUNYC1BEReIIM7jzDUccn8mhACZl4-iWJL_7zDNZp05g
