@@ -33,7 +33,7 @@ A modern, responsive React web application for reporting, tracking, and managing
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/spotit-citizen-frontend.git
+git clone https://github.com/minicsr07/SplotIt-frontend
 cd spotit-citizen-frontend
 \`\`\`
 
